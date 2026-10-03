@@ -384,7 +384,8 @@ POST /students
 
 ### Output
 
-![Create Student](https://github.com/user-attachments/assets/a6fa7322-b95a-4d06-ba72-3259cb5881cb)
+<img width="959" height="502" alt="image" src="https://github.com/user-attachments/assets/7c8816a2-2c21-4abf-8fc4-d008a7ec7dca" />
+
 
 ---
 
@@ -398,7 +399,8 @@ GET /students
 
 ### Output
 
-![Read All Students](https://github.com/user-attachments/assets/bf62d198-293a-47c2-a397-01b079abe76d)
+<img width="953" height="485" alt="image" src="https://github.com/user-attachments/assets/88c8b45c-a513-4346-b11d-e2067f8bf737" />
+
 
 ---
 
@@ -412,7 +414,8 @@ GET /students/1
 
 ### Output
 
-![Read Student](https://github.com/user-attachments/assets/c9692de3-c9e8-4d7a-b754-d7c513b152a7)
+<img width="953" height="503" alt="image" src="https://github.com/user-attachments/assets/e74f10de-5d9b-4ed7-944f-abbb4f325e16" />
+
 
 ---
 
@@ -430,13 +433,14 @@ PUT /students/1
 {
     "name": "John Updated",
     "department": "Computer Science",
-    "age": 22
+    "age": 25
 }
 ```
 
 ### Output
 
-![Update Student](https://github.com/user-attachments/assets/5061c5bf-a245-46c7-b768-a491ddfeda6f)
+<img width="959" height="502" alt="image" src="https://github.com/user-attachments/assets/0e791f8b-10be-45c5-83b8-e56e2d7b710d" />
+
 
 ---
 
@@ -456,7 +460,8 @@ Student with ID 1 deleted successfully!
 
 ### Output
 
-![Delete Student](https://github.com/user-attachments/assets/a13f9b22-e97c-4de0-94f8-4fd54dd02b73)
+<img width="959" height="499" alt="image" src="https://github.com/user-attachments/assets/40fe424d-4d3b-4d3e-9bf9-908e8ad97571" />
+
 
 ---
 
